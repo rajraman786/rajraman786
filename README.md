@@ -4,6 +4,8 @@ My name is Raman Raj, a cse student who loves to read & write codes and build th
 
 ![GitHub Follow](https://img.shields.io/github/followers/rajraman786.svg?style=social&label=Follow)
 ![GitHub Star](https://img.shields.io/github/stars/rajraman786?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Star)
+<a href="https://github.com/rajraman786/github-visitors-counter">
+    <img src="https://komarev.com/ghpvc/?username=rajraman786&">
 
 📫 How to reach me
 
@@ -59,3 +61,8 @@ My name is Raman Raj, a cse student who loves to read & write codes and build th
 <summary>:zap: Languages</summary>
   <img src="https://wakatime.com/share/@9ab069a4-0617-4090-a4d1-1baff8761284/f60fc92b-8226-4e6e-b6d9-0fb059596b46.svg" width="400px">
 </details>
+<div>
+<p align="center">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=rajraman786&show_icons=true&title_color=00a6ff&icon_color=ffbb00&text_color=000000&bg_color=ffffff" alt="Pramod's Github Stats" width="450px">
+  </p>
+  </div>
