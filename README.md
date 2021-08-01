@@ -47,6 +47,8 @@ My name is Raman Raj, a cse student who loves to read & write codes and build th
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat)
 ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat)
+    
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajraman786&show_icons=true&title_color=00a6ff&locale=en&layout=compact" alt="rajraman786" /></p>
 
 <hr>
 
@@ -66,3 +68,8 @@ My name is Raman Raj, a cse student who loves to read & write codes and build th
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rajraman786&show_icons=true&title_color=00a6ff&icon_color=ffbb00&text_color=000000&bg_color=ffffff" alt="Pramod's Github Stats" width="450px">
   </p>
   </div>
+    <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajraman786&title_color=00a6ff&icon_color=ffbb00" alt="rajraman786" /></p>
+
+
+
+![Raman's github activity graph](https://activity-graph.herokuapp.com/graph?username=rajraman786&title_color=00a6ff&theme=react-dark)
